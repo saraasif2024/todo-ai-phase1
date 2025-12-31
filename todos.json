@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "task": "Learn AI with Gemini",
+    "completed": true,
+    "created_at": "2026-01-01 02:36:00"
+  },
+  {
+    "id": 2,
+    "task": "First Task",
+    "completed": false,
+    "created_at": "2026-01-01 02:37:50"
+  },
+  {
+    "id": 3,
+    "task": "Assignment Phase 1 done",
+    "completed": false,
+    "created_at": "2026-01-01 02:40:38"
+  }
+]
